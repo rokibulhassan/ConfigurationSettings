@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Key:</strong>
+  <%= @global_config.key %>
+</p>
+
+<p>
+  <strong>Value:</strong>
+  <%= @global_config.value %>
+</p>
+
+<%= link_to 'Edit', edit_global_config_path(@global_config) %> |
+<%= link_to 'Back', global_configs_path %>
