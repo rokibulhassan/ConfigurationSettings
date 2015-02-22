@@ -5,7 +5,7 @@ for better understand you read the test codes.
 
 Please follow the following instruction:
 
-* git clone https://github.com/rokibulhassan/ConfigurationSettings.git
+= git clone https://github.com/rokibulhassan/ConfigurationSettings.git
 * cd ConfigurationSettings
 
 * <tt>rake db:create</tt>
