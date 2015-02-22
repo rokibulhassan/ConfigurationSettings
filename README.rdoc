@@ -9,5 +9,5 @@ Please follow the following instruction:
 
 * <tt>rake db:create</tt>
 * <tt>rake db:migrate</tt>
-* <tt>rake doc:test:prepare</tt>
+* <tt>rake db:test:prepare</tt>
 * <tt>rspec spec</tt>
